@@ -2,6 +2,8 @@
 
 **Live demo:** https://collins-geodev.github.io/ie-asset-dashboard-showcase/
 
+[![Animated tour of the dashboard: executive summary, DT map, network overview, maintenance, metering and upriser pages](docs/showcase-tour.gif)](https://collins-geodev.github.io/ie-asset-dashboard-showcase/)
+
 > ⚠️ **Demo with synthetic data, for portfolio purposes.**
 > Every transformer, customer, meter number, staff name, address and network line in this repository is **randomly generated** (see [`scripts/gen_data.py`](scripts/gen_data.py)).
 > The production version of this dashboard runs on **private utility data behind authentication** and is not public. This copy is a **read-only**, fully client-side display: no login, no uploads, no edits, no backend calls.
